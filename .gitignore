@@ -1,0 +1,52 @@
+# ## Jekyll-generated files ##
+# These are the files and folders that Jekyll creates when you build or serve your site.
+# They should not be in version control as they are generated from your source files.
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# ## Sass and SCSS cache files ##
+# These folders are created by Sass for caching and should not be committed.
+.sass-cache/
+.scss-cache/
+
+# ## Dependency directories ##
+# These directories are managed by package managers like Bundler, Rubygems, or npm.
+# Committing them can bloat the repository and cause "it works on my machine" issues.
+vendor/
+bundle/
+node_modules/
+
+# ## Log files ##
+# Any log files generated during development or by plugins.
+*.log
+jekyll-debug.log
+
+# ## Build and packaging files ##
+# Files related to building and packaging the theme or project, such as for RubyGems.
+*.gem
+*.gemspec
+Gemfile.lock
+
+# ## Operating System files ##
+# Standard OS-specific files that should not be in any repository.
+.DS_Store
+Thumbs.db
+
+# ## Editor and IDE configuration files ##
+# User-specific settings for popular editors like VS Code or Sublime Text.
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ## Swap files ##
+# Temporary files created by editors like Vim.
+*.swp
+*.swo
+
+# ## Deployment-specific files ##
+# Configuration files for specific deployment services (e.g., Netlify, Vercel).
+# You may want to comment these out if you *do* want to version control them.
+# _config.production.yml
+# netlify.toml
