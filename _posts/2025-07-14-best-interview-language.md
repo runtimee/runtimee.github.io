@@ -1,6 +1,6 @@
 ---
 layout: second
-author: Yan Guo
+author: Yan
 ---
 
 The Best Programming Language for Tech Interviews
