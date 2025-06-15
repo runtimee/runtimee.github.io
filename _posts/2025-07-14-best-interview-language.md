@@ -1,10 +1,9 @@
 ---
 layout: second
 author: Yan
+title: The Best Programming Language for Tech Interviews
 ---
-
-The Best Programming Language for Tech Interviews
--------------
+# The Best Programming Language for Tech Interviews
 
 What’s the best programming language for interviews if you are pursuing a software engineer position?
 
