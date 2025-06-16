@@ -1,5 +1,5 @@
 ---
-layout: second
+layout: post
 author: Yan
 title: The Best Programming Language for Tech Interviews
 ---

@@ -1,5 +1,5 @@
 ---
-layout: first
+layout: base
 title: About
 ---
 # About page
