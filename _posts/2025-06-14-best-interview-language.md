@@ -3,7 +3,6 @@ layout: second
 author: Yan
 title: The Best Programming Language for Tech Interviews
 ---
-# The Best Programming Language for Tech Interviews
 
 What’s the best programming language for interviews if you are pursuing a software engineer position?
 
@@ -91,7 +90,7 @@ Scala is the most popular functional language. However, keep in mind that all co
 ## Swift
 Well, of course for iOS engineers.
 
-##JavaScript
+## JavaScript
 For frontend engineers.
 
 ## Kotlin
@@ -99,9 +98,9 @@ For Android engineers.
 
 My two cents, and good luck.
 
-Q.E.D.
+_Q.E.D._
 
-Thank you [Eventbrite](https://www.linkedin.com/company/eventbrite/), for Python and everything!
+Thank you [Eventbrite](https://www.linkedin.com/company/eventbrite/), for Python and everything! ❤️
 
 ----
-Originally posted at https://medium.com/swlh/the-best-programming-language-for-tech-interviews-e5c77d3946ad
+Originally posted at [https://medium.com/swlh/the-best-programming-language-for-tech-interviews-e5c77d3946ad](https://medium.com/swlh/the-best-programming-language-for-tech-interviews-e5c77d3946ad)
