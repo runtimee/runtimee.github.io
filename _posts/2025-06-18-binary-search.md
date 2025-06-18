@@ -11,7 +11,7 @@ It came to me during a coding contest that it is worth the time to possess the f
 
 # 1. Basic Format
 
-Given a sorted array of unique integers and a target integer, return the index if the target is found in the array, or -1 if not found.
+Given a **sorted** array of unique integers and a target integer, return the index if the target is found in the array, or -1 if not found.
 
 ```python
 def binary_search_basic(arr, target):
@@ -30,7 +30,7 @@ def binary_search_basic(arr, target):
 
 This simple case is mostly useful to check if a target value is in a sorted array, for example [the binary_search function in C++ Standard library](https://cplusplus.com/reference/algorithm/binary_search/).
 
-For example, the result should be 2 in the test case below:
+For example, the result should be **2** in the test case below:
 
 ```python
 arr = [5, 6, 7, 9]
@@ -40,7 +40,7 @@ target = 7
 ![Basic Format](https://miro.medium.com/v2/resize:fit:828/format:webp/1*2-CTbK95XtbbyWg_xUqfYQ.png)
 
 
-# 2. [Bisect_left](https://docs.python.org/3/library/bisect.html)
+# 2. [bisect_left](https://docs.python.org/3/library/bisect.html)
 
 Given a **sorted** array of integers and a target integer, return the index of the first element **equals** to target, or the **insert position** of the target if no equal element exists.
 
@@ -61,7 +61,7 @@ This algorithm has two relaxed conditions comparing to the basic format:
 * Allow duplicates in the array, instead of being unique
 * Return the insert position if the target does not exists, instead of a sentinel value -1
 
-For example, the result should be 2 in the test case below:
+For example, the result should be **2** in the test case below:
 
 ```python
 arr = [5,6,7,7,9]
@@ -74,7 +74,7 @@ The trick of bisect_left is the loop invariant `low` . All elements on the left 
 
 **This is the most commonly used binary_search algorithm.**
 
-3. [bisect_right](https://docs.python.org/3/library/bisect.html)
+# 3. [bisect_right](https://docs.python.org/3/library/bisect.html)
 
 Given a **sorted** array of integers and a target integer, return the index of the **last** insert position of target.
 
@@ -90,7 +90,7 @@ def bisect_right(arr, target):
     return high
 ```
 
-This algorithm essentially returns the index of the first element strictly larger than target. For example, the result should be 4 in the test case below:
+This algorithm essentially returns the index of the first element strictly larger than target. For example, the result should be **4** in the test case below:
 ```python
 arr = [5,6,7,7,9]
 target = 7
