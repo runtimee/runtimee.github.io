@@ -12,4 +12,4 @@ Keep learning something new
 
 3. CSS and [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-4. On June 25, 2025, finished the book ![Designing Event-Driven Systems](https://learning.oreilly.com/covers/urn:orm:book:9781492038252/400w/)(https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/)
+4. On June 25, 2025, finished the book [![Designing Event-Driven Systems](https://learning.oreilly.com/covers/urn:orm:book:9781492038252/400w/)](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/)
